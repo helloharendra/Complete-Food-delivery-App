@@ -99,14 +99,6 @@ A comprehensive food delivery app built with **Flutter**, **Node.js**, and **MyS
 
 ---
 
-## 📞 **Contact Us**  
-- **Phone**: +91 95542 26445  
-- **Email**: [harendraprajapati72@gmail.com](mailto:harendraprajapati72@gmail.com)  
-- **Website**: [nayaproyog.com](https://nayaproyog.com)  
-- **GitHub**: [github.helloharendra.io](https://github.helloharendra.io)  
-
----
-
 ## 📜 **License**  
 
 This project is available for **high-level customization** and **licensing**. Contact us for pricing and implementation.
